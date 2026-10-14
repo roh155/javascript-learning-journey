@@ -27,4 +27,4 @@ function manageUserPreferences() {
     console.log("Notifications Enabled:", parsedData.notifications);
 }
 
-manageUserPreferences();
+manageUserPreferences(); 
